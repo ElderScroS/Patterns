@@ -1,0 +1,8 @@
+C:\Users\USER\source\repos\FileManagerComposite\FileManagerComposite\obj\Debug\FileManagerComposite.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\FileManagerComposite\FileManagerComposite\obj\Debug\FileManagerComposite.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\FileManagerComposite\FileManagerComposite\obj\Debug\FileManagerComposite.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\FileManagerComposite\FileManagerComposite\bin\Debug\FileManagerComposite.exe.config
+C:\Users\USER\source\repos\FileManagerComposite\FileManagerComposite\bin\Debug\FileManagerComposite.exe
+C:\Users\USER\source\repos\FileManagerComposite\FileManagerComposite\bin\Debug\FileManagerComposite.pdb
+C:\Users\USER\source\repos\FileManagerComposite\FileManagerComposite\obj\Debug\FileManagerComposite.exe
+C:\Users\USER\source\repos\FileManagerComposite\FileManagerComposite\obj\Debug\FileManagerComposite.pdb

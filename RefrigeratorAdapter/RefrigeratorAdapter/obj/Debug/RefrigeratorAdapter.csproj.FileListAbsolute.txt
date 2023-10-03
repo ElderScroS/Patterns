@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\RefrigeratorAdapter\RefrigeratorAdapter\bin\Debug\RefrigeratorAdapter.exe.config
+C:\Users\USER\source\repos\RefrigeratorAdapter\RefrigeratorAdapter\bin\Debug\RefrigeratorAdapter.exe
+C:\Users\USER\source\repos\RefrigeratorAdapter\RefrigeratorAdapter\bin\Debug\RefrigeratorAdapter.pdb
+C:\Users\USER\source\repos\RefrigeratorAdapter\RefrigeratorAdapter\obj\Debug\RefrigeratorAdapter.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\RefrigeratorAdapter\RefrigeratorAdapter\obj\Debug\RefrigeratorAdapter.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\RefrigeratorAdapter\RefrigeratorAdapter\obj\Debug\RefrigeratorAdapter.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\RefrigeratorAdapter\RefrigeratorAdapter\obj\Debug\RefrigeratorAdapter.exe
+C:\Users\USER\source\repos\RefrigeratorAdapter\RefrigeratorAdapter\obj\Debug\RefrigeratorAdapter.pdb
+C:\Users\Niku_ac46\Desktop\RefrigeratorAdapter\RefrigeratorAdapter\obj\Debug\RefrigeratorAdapter.csproj.AssemblyReference.cache
+C:\Users\Niku_ac46\Desktop\RefrigeratorAdapter\RefrigeratorAdapter\obj\Debug\RefrigeratorAdapter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Niku_ac46\Desktop\RefrigeratorAdapter\RefrigeratorAdapter\obj\Debug\RefrigeratorAdapter.csproj.CoreCompileInputs.cache
+C:\Users\Niku_ac46\Desktop\RefrigeratorAdapter\RefrigeratorAdapter\obj\Debug\RefrigeratorAdapter.exe
+C:\Users\Niku_ac46\Desktop\RefrigeratorAdapter\RefrigeratorAdapter\obj\Debug\RefrigeratorAdapter.pdb

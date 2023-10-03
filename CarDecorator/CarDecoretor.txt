@@ -1,0 +1,4 @@
+Create a Simplecat class that will have speed and load capacity.
+Also create a base class or an interface Car.
+Next, create the decorator classes Sport Car and Truck, which will accept SimpleCar in the constructors.
+the result is in the console.

@@ -1,0 +1,3 @@
+Implement the adapter pattern in the program to convert water to ice and ice to water.
+A refrigerator adapter that turns ice into water
+and a freezer adapter that turns water into ice will have to be used

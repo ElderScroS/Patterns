@@ -1,0 +1,10 @@
+Create an imitation of a cross-platform framework using the example of the abstract factory pattern.
+You need to create abstract Mac OS and Windows OS factories, each of which will implement the creation
+of Button and TextBox widgets for the corresponding operating systems.
+---------------------------------------------------------------------------------------------------
+Create a phone design application using the abstract factory pattern.
+Two types of Samsung Phone, Apple Iphone phones that implement the iPhone interface.
+Also create a Screen, Button, Case, Processor for each of the types of specific phones that
+will implement the IScreen, iButton, Case, IProcessor interfaces, respectively.
+
+Demonstrate the operation of the program using the user communication menu.

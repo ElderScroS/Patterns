@@ -1,0 +1,9 @@
+Using the linker pattern to create a File Manager.
+
+Implement Menu communication s polzovatelem:
+1. Add a folder 
+2. Add file show
+3. The whole folder structure.
+
+(TAKE INTO ACCOUNT) You can add both a folder and a file to a folder.
+When adding a folder or file, you need to specify which folder the user wants to add to.

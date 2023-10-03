@@ -1,0 +1,16 @@
+D:\Study\C-Sharp\Patterns\ClassWorks\ClassWork - 29.11.22\Pattern Proxy\ProxyPattern\bin\Debug\ProxyPattern.exe.config
+D:\Study\C-Sharp\Patterns\ClassWorks\ClassWork - 29.11.22\Pattern Proxy\ProxyPattern\bin\Debug\ProxyPattern.exe
+D:\Study\C-Sharp\Patterns\ClassWorks\ClassWork - 29.11.22\Pattern Proxy\ProxyPattern\bin\Debug\ProxyPattern.pdb
+D:\Study\C-Sharp\Patterns\ClassWorks\ClassWork - 29.11.22\Pattern Proxy\ProxyPattern\obj\Debug\ProxyPattern.csproj.AssemblyReference.cache
+D:\Study\C-Sharp\Patterns\ClassWorks\ClassWork - 29.11.22\Pattern Proxy\ProxyPattern\obj\Debug\ProxyPattern.csproj.SuggestedBindingRedirects.cache
+D:\Study\C-Sharp\Patterns\ClassWorks\ClassWork - 29.11.22\Pattern Proxy\ProxyPattern\obj\Debug\ProxyPattern.csproj.CoreCompileInputs.cache
+D:\Study\C-Sharp\Patterns\ClassWorks\ClassWork - 29.11.22\Pattern Proxy\ProxyPattern\obj\Debug\ProxyPattern.exe
+D:\Study\C-Sharp\Patterns\ClassWorks\ClassWork - 29.11.22\Pattern Proxy\ProxyPattern\obj\Debug\ProxyPattern.pdb
+C:\Users\Alie_cw10\Desktop\Pattern Proxy\ProxyPattern\bin\Debug\ProxyPattern.exe.config
+C:\Users\Alie_cw10\Desktop\Pattern Proxy\ProxyPattern\bin\Debug\ProxyPattern.exe
+C:\Users\Alie_cw10\Desktop\Pattern Proxy\ProxyPattern\bin\Debug\ProxyPattern.pdb
+C:\Users\Alie_cw10\Desktop\Pattern Proxy\ProxyPattern\obj\Debug\ProxyPattern.csproj.AssemblyReference.cache
+C:\Users\Alie_cw10\Desktop\Pattern Proxy\ProxyPattern\obj\Debug\ProxyPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alie_cw10\Desktop\Pattern Proxy\ProxyPattern\obj\Debug\ProxyPattern.csproj.CoreCompileInputs.cache
+C:\Users\Alie_cw10\Desktop\Pattern Proxy\ProxyPattern\obj\Debug\ProxyPattern.exe
+C:\Users\Alie_cw10\Desktop\Pattern Proxy\ProxyPattern\obj\Debug\ProxyPattern.pdb

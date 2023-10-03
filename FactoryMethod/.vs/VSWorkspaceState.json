@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FactoryMethod",
+    "\\FactoryMethod\\ConcreteFactories",
+    "\\FactoryMethod\\Factories",
+    "\\FactoryMethod\\obj\\Debug",
+    "\\FactoryMethod\\obj\\Debug\\TempPE",
+    "\\FactoryMethod\\Products"
+  ],
+  "SelectedNode": "\\FactoryMethod\\ConcreteFactories\\SpecializedVesselFactory.cs",
+  "PreviewInSolutionExplorer": false
+}

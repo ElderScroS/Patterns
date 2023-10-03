@@ -1,0 +1,8 @@
+C:\Users\USER\source\repos\BurgerBuilder\BurgerBuilder\bin\Debug\BurgerBuilder.exe.config
+C:\Users\USER\source\repos\BurgerBuilder\BurgerBuilder\bin\Debug\BurgerBuilder.exe
+C:\Users\USER\source\repos\BurgerBuilder\BurgerBuilder\bin\Debug\BurgerBuilder.pdb
+C:\Users\USER\source\repos\BurgerBuilder\BurgerBuilder\obj\Debug\BurgerBuilder.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\BurgerBuilder\BurgerBuilder\obj\Debug\BurgerBuilder.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\BurgerBuilder\BurgerBuilder\obj\Debug\BurgerBuilder.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\BurgerBuilder\BurgerBuilder\obj\Debug\BurgerBuilder.exe
+C:\Users\USER\source\repos\BurgerBuilder\BurgerBuilder\obj\Debug\BurgerBuilder.pdb
